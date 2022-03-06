@@ -3,7 +3,7 @@
 
 - <img align="center" alt="isaac-Js" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </img> Lover.
 - 📫 Open mindset to new challenges and opportunities.
-- 
+
 
 
 <div align="center">
@@ -20,3 +20,16 @@
   <img align="center" alt="isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="isaac-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+  
+  ##
+  
+  <h3 align="center">You can find me there as well</h3>
+  
+<p align="center">
+  <a align="center" href = "mailto:isaacs.nascimento17@gmail.com"><img  align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a align="center" href="https://www.linkedin.com/in/isaacs-nascimento/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+</p>
+  
+  
