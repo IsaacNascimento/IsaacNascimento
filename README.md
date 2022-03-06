@@ -1,12 +1,13 @@
 <h1 align="center">Hi, my name is Isaac</h1>
 <h3 align="center">I'm a FullStack developer.</h3>
 
-- <img align="center" alt="isaac-Js" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </img> Lover.
-- 📫 I'm looking for challenges where I can improve my skills.
+- <img align="center" alt="isaac-Js" height="15" width="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> </img> Lover.
+- 📫 Open mindset to new challenges and opportunities.
+- 
 
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/IsaacNascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacnascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnascimento&layout=compact&langs_count=7&theme=dracula"/>
 </div>
