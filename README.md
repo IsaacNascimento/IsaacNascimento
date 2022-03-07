@@ -14,7 +14,7 @@
 
  <hr />
   
-<h3 align="center">You can find me there as well</h3>
+<h3 align="center">You also can find me there</h3>
   
 <p align="center">
   <a align="center" href = "mailto:isaacs.nascimento17@gmail.com"><img  align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
