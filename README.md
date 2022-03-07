@@ -19,6 +19,7 @@
 <p align="center">
   <a align="center" href = "mailto:isaacs.nascimento17@gmail.com"><img  align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a align="center" href="https://www.linkedin.com/in/isaacs-nascimento/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/isaac_snascimento/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="isaacnascimento" /></a>
 </p>  
   
 
@@ -34,10 +35,13 @@
   
 <div  align="center" style="display: inline_block"><br>
   <h3> Work on progress </h3> 
+  <img align="center" alt="isaac-Js" height="30" width="60" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="isaac-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="isaac-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="isaac-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="isaac-Js" height="30" width="60" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  
+       
 </div>  
 
   
